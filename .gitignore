@@ -1,0 +1,4 @@
+__pycache__
+*.pyc
+data/external/
+*.ipynb_checkpoints
