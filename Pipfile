@@ -10,7 +10,7 @@ scipy = "*"
 sklearn = "*"
 lightgbm = "*"
 shap = "*"
-notebook = "*"
+jupyterlab = "*"
 
 [dev-packages]
 
