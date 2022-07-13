@@ -1,4 +1,5 @@
 __pycache__
 *.pyc
-data/external/
 *.ipynb_checkpoints
+.DS_Store
+data.csv
