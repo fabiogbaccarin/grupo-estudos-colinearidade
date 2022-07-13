@@ -11,6 +11,8 @@ sklearn = "*"
 lightgbm = "*"
 shap = "*"
 jupyterlab = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 
